@@ -1,0 +1,287 @@
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\bin\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(without_login)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(Exception Done + Product Module Update)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billing.FindCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billing.FindCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(Again Updaed)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Full Exeption)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.logins.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.empLogin.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.signUp.resources
+E:\sem5\projects\APT\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.ForgetPassword.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.empLogin.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.ForgetPassword.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.logins.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.signUp.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\Fahad\Desktop\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.empLogin.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.ForgetPassword.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.logins.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.login.signUp.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\nauma\Downloads\Point of Sale(Final Validation)\Point of Sale(Final)\Point of Sale(Final)\Point of Sale(Full Exeption)\Point of Sale(without_login)\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.empLogin.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.ForgetPassword.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.logins.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.signUp.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.exe
+E:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.pdb
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.exe.config
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.exe
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\bin\Debug\Point of Sale.pdb
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.SuggestedBindingRedirects.cache
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.Billings.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.FindCustomer.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills_Billing.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewBills.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddCustomer.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewCustomer.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddEmployee.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewEmployee.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.empLogin.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.ForgetPassword.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.logins.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.login.signUp.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddProducts.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewProducts.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.AddSuppliers.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.MainMenu.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.MBox.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point_of_Sale.ViewSuppliers.resources
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.exe
+D:\sem5\projects\APT\TermProject C#\Point of Sale(Final)\Point of Sale\obj\Debug\Point of Sale.pdb
